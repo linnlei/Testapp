@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buss-app</string>
+
+    <string name="textview">Meny</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="startbutton">Starta spelet</string>
+    <string name="scorebutton">Highscore</string>
+    <string name="hint">Hint</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:testapplication="http://schemas.android.com/apk/res-auto">
+    <!-- Share item -->
+
+    <item
+        android:id="@+id/menu_item_share"
+        android:title="Dela"
+        testapplication:showAsAction="ifRoom"
+        testapplication:actionProviderClass= "android.support.v7.widget.ShareActionProvider" />
+</menu>
