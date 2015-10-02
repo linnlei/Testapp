@@ -12,7 +12,7 @@ import android.widget.FrameLayout;
 
 public class GameActivity extends Activity {
     /** Called when the activity is first created. */
-    //Should work now
+    //Should work now, now with changed password
 
     private static final String TAG = GameActivity.class.getSimpleName();
     private FrameLayout gameFrame;
