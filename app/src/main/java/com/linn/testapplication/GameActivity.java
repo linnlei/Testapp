@@ -12,6 +12,7 @@ import android.widget.FrameLayout;
 
 public class GameActivity extends Activity {
     /** Called when the activity is first created. */
+    //Testing testing
 
     private static final String TAG = GameActivity.class.getSimpleName();
     private FrameLayout gameFrame;
